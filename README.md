@@ -1,9 +1,10 @@
 # Davidvdt.github.io
-<html>
+
   <body>
 <h1>Hello World!!</h1>
 <h1 style="background-color:Tomato;">Tomato</h1>
 <h1 style="background-color:Orange;">Orange</h1>
 <h1 style="background-color:DodgerBlue;">DodgerBlue</h1>
+    
 </body>
-</html
+
